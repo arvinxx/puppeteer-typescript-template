@@ -2,6 +2,14 @@
   "name": "puppeteer-typescript-template",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/arvinxx/puppeteer-typescript-template",
+  "bugs": {
+    "url": "https://github.com/arvinxx/puppeteer-typescript-template"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvinxx/puppeteer-typescript-template.git"
+  },
   "main": "dist/index.js",
   "scripts": {
     "start": "npm run dev",
